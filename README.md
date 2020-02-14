@@ -1,1 +1,1 @@
-# This repository paticipates in project PID
+# PID controller computer simulation
